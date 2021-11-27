@@ -22,4 +22,4 @@ Project is made with [Python](https://www.python.org), [OpenCV](https://opencv.o
 2. Press escape to exit the program.
 
 ## Demo of Project
-                        ![Demo 1](https://user-images.githubusercontent.com/62956793/143678972-195efef0-5c54-43d3-8d99-5eeeb9024069.gif)
+   ![Demo 1](https://user-images.githubusercontent.com/62956793/143678972-195efef0-5c54-43d3-8d99-5eeeb9024069.gif)
